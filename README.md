@@ -2,7 +2,7 @@
 
 _12 October 2020_
 
-#### _Application for creating and storing data about animal sightings
+#### Application for creating and storing data about animal sightings
 
 #### By _**Brycen Bartolome and Vanessa Stewart**_
 
